@@ -13,11 +13,3 @@
 127.0.0.1	amzdigitaldownloads.edgesuite.net
 127.0.0.1	softwareupdates.amazon.com
 127.0.0.1	updates.amazon.com
-127.0.0.1	registeraudials.com
-127.0.0.1	www.inwx.de
-127.0.0.1	lists.rs-audials.com
-127.0.0.1	www.ns1.metakauf.de
-127.0.0.1	securestore.audials.com
-127.0.0.1	secure.element5.com
-127.0.0.1	shop.audials.com
-127.0.0.1	userstats.audials.com
