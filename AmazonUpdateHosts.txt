@@ -9,15 +9,15 @@
 #
 # AD SERVERS START HERE
 #
-0.0.0.0		amzdigital-a.akamaihd.net
-0.0.0.0		amzdigitaldownloads.edgesuite.net
-0.0.0.0		softwareupdates.amazon.com
-0.0.0.0		updates.amazon.com
-0.0.0.0		registeraudials.com
-0.0.0.0		www.inwx.de
-0.0.0.0		lists.rs-audials.com
-0.0.0.0		www.ns1.metakauf.de
-0.0.0.0		securestore.audials.com
-0.0.0.0		secure.element5.com
-0.0.0.0		shop.audials.com
-0.0.0.0		userstats.audials.com
+127.0.0.1		amzdigital-a.akamaihd.net
+127.0.0.1		amzdigitaldownloads.edgesuite.net
+127.0.0.1		softwareupdates.amazon.com
+127.0.0.1		updates.amazon.com
+127.0.0.1		registeraudials.com
+127.0.0.1		www.inwx.de
+127.0.0.1		lists.rs-audials.com
+127.0.0.1		www.ns1.metakauf.de
+127.0.0.1		securestore.audials.com
+127.0.0.1		secure.element5.com
+127.0.0.1		shop.audials.com
+127.0.0.1		userstats.audials.com
